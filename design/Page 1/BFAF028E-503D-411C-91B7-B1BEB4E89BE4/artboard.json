@@ -42,31 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
       "id": "CCE974AC-2E56-4CDD-9BE9-24F08566F891"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0833BD96-4017-46D0-8EDA-BDD2FEB64A9F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7BDDCB24-F1E9-437F-BFC6-70D24352DEE6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0FFB4E44-F04B-4782-8BDF-8404FAE3F7EC"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "EE7F3B2B-F9AD-4FD7-83E0-149C5F621093"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1B8807ED-8241-413E-AE72-95D7E161BAC8"
     }
   ],
   "layout": {
